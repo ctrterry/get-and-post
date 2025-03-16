@@ -32,7 +32,7 @@ Through this project, I am mastering:
 
 ---
 
-## 🚧 Project Structure
+## Project Structure
 
 ```
 project_root/
@@ -45,7 +45,7 @@ project_root/
 
 ---
 
-## 🔧 Running the Project
+## Running the Project
 
 ### Installation
 Clone and install dependencies:
